@@ -26,14 +26,18 @@ td:hover{
 
 h1 {
     color:#FFF;
-    font-size:200%;
+    font-size:400%;
+    position:relative;
+    top: 220px;
     font-weight:700;
     letter-spacing:3px;
     padding-right:50px;
-    padding-bottom:150px;
+    
+    padding-bottom:0px;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
     vertical-align:top;
 }
+
 
 .copyright-notice {
     style="color:#FFF;
@@ -64,3 +68,10 @@ h1 {
 .off-day{
     background-color:#ddd;
   }
+
+
+a {
+    padding-left: 5px;
+    padding-bottom: 20px;    
+    background-color: rgb(27, 233, 27);
+}  

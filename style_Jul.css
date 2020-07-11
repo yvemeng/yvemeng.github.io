@@ -67,3 +67,10 @@ h1 {
 .off-day{
     background-color:#ddd;
   }
+
+a {
+    padding-left: 5px;
+    padding-bottom: 20px;
+    background-color: rgb(111, 243, 111);
+
+}
