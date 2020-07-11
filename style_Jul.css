@@ -19,7 +19,7 @@ td:hover{
     background-position:center center;
     background-repeat:no-repeat;
     background-size:cover;
-    height:800px;
+    height:700px;
     width: 1000px;
     text-align:right;
 }
@@ -55,9 +55,8 @@ h1 {
 }
 
 .week{
-    background-color:#eaeaea;
-    border-color: rgb(21, 95, 21);    
-    height:125px;
+    background-color:#eaeaea;   
+    height:75px;
     margin:0;
     text-align:left;
     vertical-align:top;
