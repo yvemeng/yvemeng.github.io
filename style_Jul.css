@@ -55,7 +55,8 @@ h1 {
 
 .week{
     background-color:#eaeaea;
-    height:75px;
+    border-color: rgb(21, 95, 21);    
+    height:125px;
     margin:0;
     text-align:left;
     vertical-align:top;
