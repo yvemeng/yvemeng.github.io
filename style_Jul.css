@@ -19,7 +19,7 @@ td:hover{
     background-position:center center;
     background-repeat:no-repeat;
     background-size:cover;
-    height:700px;
+    height:600px;
     width: 1000px;
     text-align:right;
 }
@@ -32,7 +32,7 @@ h1 {
     font-weight:700;
     letter-spacing:3px;
     padding-right:50px;
-    
+
     padding-bottom:0px;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
     vertical-align:top;
@@ -57,7 +57,7 @@ h1 {
 }
 
 .week{
-    background-color:#eaeaea;   
+    background-color:#eaeaea;
     height:125px;
     margin:0;
     text-align:left;
